@@ -1,8 +1,7 @@
-## Hi there 👋
-
+## Welcome!
+<img src="https://count.getloli.com/@GhostttieVisits?name=GhostttieVisits&theme=nixietube-1&padding=7&offset=0&align=top&scale=0.5&pixelated=1&darkmode=auto" alt=":GhostttieVisits" />
 <!--
 **Ghostttie/Ghostttie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
